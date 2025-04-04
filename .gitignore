@@ -131,10 +131,10 @@ celerybeat.pid
 .env
 .venv
 env/
-venv/
+miniproject/
 ENV/
 env.bak/
-venv.bak/
+miniproject.bak/
 
 # Spyder project settings
 .spyderproject
